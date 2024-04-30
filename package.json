@@ -1,0 +1,23 @@
+{
+  "name": "fose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://research-git.uiowa.edu/sonarqube/cs5800/2023_spring/team07/fose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0"
+  },
+  "dependencies": {
+    "@testing-library/dom": "^9.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "save-dev": "^0.0.1-security"
+  }
+}
